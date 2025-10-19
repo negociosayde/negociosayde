@@ -1,0 +1,13 @@
+sku,title,description,category,gender,size,color,price_currency,price,stock,images,tags
+PEN-001,Camiseta básica unisex,Camiseta de algodón suave,Niños,Unisex,4-5,Azul,PEN,39.90,25,https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=1200,basico;algodon
+PEN-002,Vestido floral,Vestido con estampado floral,Niñas,Femenino,3-4,Rosa,PEN,129.00,10,https://images.unsplash.com/photo-1520975914931-1b8a3c4f3c6c?w=1200,vestido;fiesta
+PEN-003,Saco de lana elegante,Saco semi-formal de mezcla de lana,Caballeros,Masculino,M,Gris,PEN,249.99,6,https://images.unsplash.com/photo-1540574163026-643ea20ade25?w=1200,saco;invierno
+PEN-004,Blusa satinada,Blusa de satén elegante,Damas,Femenino,S,Beige,PEN,159.50,12,https://images.unsplash.com/photo-1519710164239-da123dc03ef4?w=1200,blusa;elegante
+PEN-005,Pantalón casual,Pantalón de corte moderno,Caballeros,Masculino,32,Azul,PEN,119.99,15,https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?w=1200,pantalon;casual
+PEN-006,Conjunto bebé cómodo,Conjunto de algodón para bebé,Niños,Unisex,0-3M,Blanco,PEN,69.00,25,https://images.unsplash.com/photo-1520975914931-1b8a3c4f3c6c?w=1200,bebe;conjunto
+PEN-007,Polera deportiva transpirable,Polera para actividad física,Damas,Femenino,S,Gris,PEN,79.90,30,https://images.unsplash.com/photo-1545156521-1a0d2b2e0a6a?w=1200,spor;deporte
+PEN-008,Short deportivo,Short cómodo para deporte,Caballeros,Masculino,M,Negro,PEN,59.99,40,https://images.unsplash.com/photo-1520975914931-1b8a3c4f3c6c?w=1200,short;deporte
+PEN-009,Vestido casual midi,Vestido para uso diario,Damas,Femenino,M,Mostaza,PEN,99.90,20,https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?w=1200,vestido;casual
+PEN-010,Buzo con capucha juvenil,Buzo cómodo y moderno,Niños,Unisex,8-10,Marino,PEN,89.90,18,https://images.unsplash.com/photo-1520975914931-1b8a3c4f3c6c?w=1200,buzo;juventud
+PEN-011,Camisa formal masculina,Camisa de algodón para oficina,Caballeros,Masculino,L,Blanco,PEN,149.00,14,https://images.unsplash.com/photo-1540574163026-643ea20ade25?w=1200,camisa;formal
+PEN-012,Blusa deportiva mujer,Blusa elástica para entrenamiento,Damas,Femenino,S,Negro,PEN,69.50,22,https://images.unsplash.com/photo-1545156521-1a0d2b2e0a6a?w=1200,blusa;deporte
